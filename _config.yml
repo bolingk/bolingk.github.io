@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/kb_resume_apr2020.pdf
 
-url: https://kboling.github.io/personal-site
+url: https://bolingk.github.io/personal-site
 # your url: http://USERNAME.github.io
 
 permalink: /:title/

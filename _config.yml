@@ -129,3 +129,5 @@ compress_html:
         - stage
 
 exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md", "node_modules", "vendor"]
+
+theme: jekyll-theme-cayman
